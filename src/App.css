@@ -65,6 +65,10 @@
   font-size: 18px;
 }
 
+.input_todo:focus-visible {
+  outline: none;
+}
+
 .input_dark {
   background-color: hsl(235, 24%, 19%);
   box-shadow: 0px 10px 10px 1px black;
