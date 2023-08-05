@@ -262,4 +262,16 @@
   .todo {
     width: 11%;
   }
+
+  .todo_option_items p {
+    font-size: x-small;
+  }
+
+  .sort_items {
+    width: 40%;
+  }
+
+  .items_left_container {
+    width: 20%;
+  }
 }
