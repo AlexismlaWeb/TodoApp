@@ -244,11 +244,11 @@
 
 @media (max-width: 400px) {
   .App {
-    background-size: 100% 25%;
+    background-size: 100% 30%;
   }
 
   .todo_container {
-    width: 85%;
+    width: 90%;
   }
 
   .todo_create {
