@@ -242,13 +242,13 @@
   justify-content: flex-end;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .App {
     background-size: 100% 30%;
   }
 
   .todo_container {
-    width: 90%;
+    width: 85%;
   }
 
   .todo_create {
